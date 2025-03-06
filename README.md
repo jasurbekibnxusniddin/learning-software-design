@@ -29,7 +29,9 @@ This repository is dedicated to learning and understanding various **software de
  ├── 📂 principles              # Software design principles  
  │   ├── 📂 SOLID  
  │   ├── 📂 GRASP  
- │   ├── 📂 KISS_DR_YAGNI  
+ │   ├── 📂 KISS
+ │   ├── 📂 DRY
+ │   ├── 📂 YAGNI  
  │   ├── 📂 Separation_of_Concerns  
  │   ├── 📂 Law_of_Demeter  
  │  
